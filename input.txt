@@ -1,3 +1,4 @@
 this is test
 just ignore
 ruby-bang : oke bang
+test 2
